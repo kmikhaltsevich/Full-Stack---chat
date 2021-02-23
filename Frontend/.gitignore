@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+
+
+# logs
+/log/*
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+sw.*
+workbox-*
+
+# Ignore env file
+/.env
+
+# Ignore .DS_Store macOS system file
+.DS_Store
+
+# ignore idea files
+/.idea
+
+# ignore test page :)
+/pages/test.vue
